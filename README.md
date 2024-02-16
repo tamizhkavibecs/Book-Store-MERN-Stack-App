@@ -18,7 +18,6 @@ To run the app locally, follow these steps:
 - Clone the repository
 - Navigate to the project directory
 - Install dependencies
-- Start the backend server
+- Start the backend server with database (valid data)
 - Start the frontend server 
-- connect the database
 - Open your browser and visit http://localhost:3000 to view the app.
